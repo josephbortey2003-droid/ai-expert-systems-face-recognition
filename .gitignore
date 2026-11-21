@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+face_project/dataset/
+face_project/models/
+face_project/review/
+*.zip
+face_project/rejected/
